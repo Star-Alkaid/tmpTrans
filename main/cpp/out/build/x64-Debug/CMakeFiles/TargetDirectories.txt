@@ -1,0 +1,3 @@
+C:/Users/LIN/Desktop/fromChenghuiLittle/MINIAudioApp/entry/src/main/cpp/out/build/x64-Debug/CMakeFiles/entry.dir
+C:/Users/LIN/Desktop/fromChenghuiLittle/MINIAudioApp/entry/src/main/cpp/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/LIN/Desktop/fromChenghuiLittle/MINIAudioApp/entry/src/main/cpp/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
